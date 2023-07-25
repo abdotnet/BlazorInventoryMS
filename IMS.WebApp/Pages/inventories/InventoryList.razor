@@ -1,0 +1,34 @@
+﻿@page "/inventories"
+@inject NavigationManager NavigationManager;
+@using IMS.CoreBusiness;
+@using IMS.UseCases.Inventories.Interfaces;
+
+<PageTitle>Inventory Listing</PageTitle>
+
+<h3>Inventory Listing</h3>
+<SearchInventoryControl OnSearchEventCallback="OnSearchEventCallback"></SearchInventoryControl>
+<br/>
+@inject IViewInventoryByNameUseCase ViewInventoryByNameUseCase;
+
+
+<InventoryListControl SearchItem="@searchItem"></InventoryListControl>
+<br/>
+
+<button type="button" class="btn btn-primary" @onclick="AddNewInventory">Add Inventory</button>
+@code {
+    List<Inventory> inventories = new();
+
+    //  protected override async Task OnInitializedAsync() => inventories =  (await ViewInventoryByNameUseCase.ExecuteAsync()).ToList();
+    private string searchItem = string.Empty;
+    private void OnSearchEventCallback( string searchItem)
+    {
+        this.searchItem = searchItem;
+    }
+
+    private void AddNewInventory()
+    {
+        NavigationManager.NavigateTo("/AddInventory");
+    }
+
+}
+    

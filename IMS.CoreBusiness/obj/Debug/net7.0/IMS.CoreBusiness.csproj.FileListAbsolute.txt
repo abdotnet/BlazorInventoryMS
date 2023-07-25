@@ -1,0 +1,12 @@
+C:\Apps\IMS\IMS.CoreBusiness\bin\Debug\net7.0\IMS.CoreBusiness.deps.json
+C:\Apps\IMS\IMS.CoreBusiness\bin\Debug\net7.0\IMS.CoreBusiness.dll
+C:\Apps\IMS\IMS.CoreBusiness\bin\Debug\net7.0\IMS.CoreBusiness.pdb
+C:\Apps\IMS\IMS.CoreBusiness\obj\Debug\net7.0\IMS.CoreBusiness.csproj.AssemblyReference.cache
+C:\Apps\IMS\IMS.CoreBusiness\obj\Debug\net7.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\IMS\IMS.CoreBusiness\obj\Debug\net7.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+C:\Apps\IMS\IMS.CoreBusiness\obj\Debug\net7.0\IMS.CoreBusiness.AssemblyInfo.cs
+C:\Apps\IMS\IMS.CoreBusiness\obj\Debug\net7.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Apps\IMS\IMS.CoreBusiness\obj\Debug\net7.0\IMS.CoreBusiness.dll
+C:\Apps\IMS\IMS.CoreBusiness\obj\Debug\net7.0\refint\IMS.CoreBusiness.dll
+C:\Apps\IMS\IMS.CoreBusiness\obj\Debug\net7.0\IMS.CoreBusiness.pdb
+C:\Apps\IMS\IMS.CoreBusiness\obj\Debug\net7.0\ref\IMS.CoreBusiness.dll

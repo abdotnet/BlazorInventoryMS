@@ -1,0 +1,15 @@
+C:\Apps\IMS\IMS.UseCases\bin\Debug\net7.0\IMS.UseCases.deps.json
+C:\Apps\IMS\IMS.UseCases\bin\Debug\net7.0\IMS.UseCases.dll
+C:\Apps\IMS\IMS.UseCases\bin\Debug\net7.0\IMS.UseCases.pdb
+C:\Apps\IMS\IMS.UseCases\bin\Debug\net7.0\IMS.CoreBusiness.dll
+C:\Apps\IMS\IMS.UseCases\bin\Debug\net7.0\IMS.CoreBusiness.pdb
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\IMS.UseCases.csproj.AssemblyReference.cache
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\IMS.UseCases.AssemblyInfoInputs.cache
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\IMS.UseCases.AssemblyInfo.cs
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\IMS.UseCases.csproj.CopyComplete
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\IMS.UseCases.dll
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\refint\IMS.UseCases.dll
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\IMS.UseCases.pdb
+C:\Apps\IMS\IMS.UseCases\obj\Debug\net7.0\ref\IMS.UseCases.dll

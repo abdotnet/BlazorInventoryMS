@@ -1,0 +1,36 @@
+﻿@using IMS.CoreBusiness;
+
+@if (inventories!=null && inventories.Any())
+{
+    @foreach (var item in inventories)
+    {
+        <tbody>
+
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Quantity</td>
+                <td>USD @item.Price</td>
+                <td> <button type="button" class="btn btn-light">Edit</button> </td>
+            </tr>
+
+        </tbody>
+    }
+}
+else
+{
+    <tbody>
+
+        <tr >
+            <td colspan="5" rowspan="5" align="center"> No record found </td>
+        </tr>
+
+    </tbody>
+}
+
+
+@code {
+    [Parameter]
+    public List<Inventory> inventories { get; set; } = new();
+
+}
